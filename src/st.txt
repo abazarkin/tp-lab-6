@@ -1,0 +1,8 @@
+1/Ivanov Ivan1/cleaner/140/240
+2/Ivanov Ivan2/driver/150/240
+3/Ivanov Ivan3/programmer/160/240/10000
+4/Ivanov Ivan4/tester/160/240/8000
+5/Ivanov Ivan5/teamleader/170/240/15000/2/500
+6/Ivanov Ivan6/manager/240/15000
+7/Ivanov Ivan7/projectmanager/240/20000/1/1000
+8/Ivanov Ivan8/seniormanager/240/30000/2/2000
